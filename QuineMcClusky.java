@@ -1,3 +1,4 @@
+// edited by coderistan
 package quinemcclusky;
 
 public class QuineMcClusky {
